@@ -101,7 +101,7 @@
     "make-unique": "1.0.4",
     "mkdirp": "0.5.1",
     "ms": "2.1.1",
-    "node-fetch": "2.1.2",
+    "node-fetch": "2.6.1",
     "path-exists": "3.0.0",
     "promisepipe": "2.1.2",
     "react-input-autosize": "2.2.1",
