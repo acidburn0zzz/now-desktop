@@ -115,7 +115,7 @@
     "time-ago": "0.2.1",
     "tmp-promise": "1.0.4",
     "trim": "0.0.1",
-    "ua-parser-js": "0.7.17",
+    "ua-parser-js": "0.7.24",
     "winreg": "1.2.4"
   },
   "devDependencies": {
